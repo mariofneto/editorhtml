@@ -1,0 +1,3 @@
+Olá mundo, estou aprendendo a programar os fundamentos
+m c# com o mestre Balta, o brabo do .NET
+
