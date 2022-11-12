@@ -39,8 +39,11 @@ public static class Editor
             {
                 salvarNoDisco.WriteLine(file);
                 Console.WriteLine("Arquivo Salvo com sucesso!");
+                
             }
         }
+        Viewer.Show(file.ToString());
+        
 
     }
 }

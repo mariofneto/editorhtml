@@ -1,3 +1,4 @@
+using System.Net.Mime;
 using System;
 
 public static class Menu
@@ -68,7 +69,7 @@ public static class Menu
         switch (option)
         {
             case 1: Editor.Show(); break;
-            case 2: Console.WriteLine("View"); break;
+            case 2: Console.WriteLine("ta beleza"); break;
             case 0:
                 {
                     Console.Clear();
